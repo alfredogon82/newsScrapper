@@ -1,2 +1,2 @@
 # newsScrapper
-just a script to scrap news from a website and insert into a database
+just a python script to scrap news from a wordpress website and insert into a database.Using beautiful soup
